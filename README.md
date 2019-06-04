@@ -1,3 +1,5 @@
+This repository is cloned from oveddan/posenet-for-installations
+
 # PoseNet for Installations
 
 This repository provides an ideal way to use [PoseNet](https://github.com/tensorflow/tfjs-models/tree/master/posenet) for installations; it runs totally offline and can stream poses over websocket to any consuming appication such as Unity, OpenFrameworks or TouchDesigner, or a browser on another computer or mobile device. Much of the useage is inspired by the wonderful work being done at [RunwayML](https://runwayapp.ai/)
